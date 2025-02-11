@@ -6,7 +6,7 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		mqZi1dfay0plJjSmg0bIVpkPwX4=
+		C3b4YdON9HE7pv77scYlFABytr4=
 		</data>
 		<key>Modules/XYZAuthKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -14,19 +14,19 @@
 		</data>
 		<key>Modules/XYZAuthKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		00RrlUp2+yWsAzaKhzCUA7zYb88=
+		Lt0cw9T2Soq9BlXOO0sDwihvAJE=
 		</data>
 		<key>Modules/XYZAuthKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		3pmNHmh06TFT5niHPjZlugavlxY=
+		asoIGszbfxgOu1tm4tA5Mu0fdDY=
 		</data>
 		<key>Modules/XYZAuthKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		00RrlUp2+yWsAzaKhzCUA7zYb88=
+		Lt0cw9T2Soq9BlXOO0sDwihvAJE=
 		</data>
 		<key>Modules/XYZAuthKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		x8CJH5cRVCB5R8curEh3BN9fYV4=
+		Kvu0I4TQDQA8qWICimRpp41RupY=
 		</data>
 		<key>Modules/XYZAuthKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/XYZAuthKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		IwKLyt147F3sU5kRWg0R+bexx4U=
+		HfmbL/Y6syQpfyOHUB1AwfrhtsM=
 		</data>
 		<key>Modules/XYZAuthKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		WGXTkeoD/4wvIxan17V9+ozk7VA=
+		hn+vHGKHif9AywC4G1zZ+vmrtig=
 		</data>
 		<key>Modules/XYZAuthKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		IwKLyt147F3sU5kRWg0R+bexx4U=
+		HfmbL/Y6syQpfyOHUB1AwfrhtsM=
 		</data>
 		<key>Modules/XYZAuthKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KxYr5TeLA0DD0eSvfd8V9ig8Rbg=
+		zBAij56dA/E9EHlBvSOqyjqaUO4=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -66,28 +66,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4DAmZqpnvoMsXo0tZpayNqVWORNUb6dU0uTvxMaYMFs=
+			x+H87ETcocWQNR/bEXQOKBEjhIHLtOuprL2f6vxbnSI=
 			</data>
 		</dict>
 		<key>Modules/XYZAuthKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HsyUszg+YyhlPnHBF5zac+SU/2vbK3vkLgchWZGjp0k=
+			dhMaDmLp6f6UvSGW+ylprdQvSxjTsP4NXXnbWint4L8=
 			</data>
 		</dict>
 		<key>Modules/XYZAuthKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4DAmZqpnvoMsXo0tZpayNqVWORNUb6dU0uTvxMaYMFs=
+			x+H87ETcocWQNR/bEXQOKBEjhIHLtOuprL2f6vxbnSI=
 			</data>
 		</dict>
 		<key>Modules/XYZAuthKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CsKVa8liQ5eubxhB4WhvBPASPSvEHkS/9SUkyRULWag=
+			b76ZIu98J7dBa7xHNisJgkr04NL4nCct7BiYYDyulNY=
 			</data>
 		</dict>
 		<key>Modules/XYZAuthKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -101,28 +101,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jK/jRgWNONSfH4ldx2l4ce2zuQf0zD5cNRUSwq8IwAw=
+			vbo9cMHqiysjxaxFnmX3ZEiEhc1dkvdi1HGISmjDdLo=
 			</data>
 		</dict>
 		<key>Modules/XYZAuthKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J43HROyhAM4m6jd4lIpcL21Y7jLVCv/h/zU9jo1c9yo=
+			a3XufLiVzNm8LIwjOF/wCq9/qeWG2N85f70hiArHiTI=
 			</data>
 		</dict>
 		<key>Modules/XYZAuthKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jK/jRgWNONSfH4ldx2l4ce2zuQf0zD5cNRUSwq8IwAw=
+			vbo9cMHqiysjxaxFnmX3ZEiEhc1dkvdi1HGISmjDdLo=
 			</data>
 		</dict>
 		<key>Modules/XYZAuthKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FjsCx7Cj82nhsFKtXrI0eQBDGVxG30PEw4hFtfGUDCk=
+			32sosxiYSqm7V1nw0tbyzS05HrxUYfxSgcB34T+YLdA=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
